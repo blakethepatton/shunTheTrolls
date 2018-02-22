@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "Shun Kickstarter Users",
+  "description": "This extension allows the user to hide comments from specified users.",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.kickstarter.com/projects/*"],
+      "js": ["script.js"] 
+    }
+  ],
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage",
+    "tabs", "https://www.kickstarter.com/projects/*"
+  ]
+}

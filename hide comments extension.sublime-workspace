@@ -1,0 +1,612 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"invoiced",
+				"invoiced\t(SWO.php)"
+			],
+			[
+				"getPayment",
+				"getInvoicePaymentHistory\t(ContractorPayments.php)"
+			],
+			[
+				"string",
+				"string\t(UserController.php)"
+			],
+			[
+				"getby",
+				"getProfileById"
+			],
+			[
+				"getOrder",
+				"getOrder"
+			],
+			[
+				"line1",
+				"line1"
+			],
+			[
+				"vals",
+				"vals"
+			],
+			[
+				"dbOLO",
+				"dbOloCtcNonOloTables"
+			],
+			[
+				"Entiyt",
+				"Entity_Nm\t(User.php)"
+			],
+			[
+				"return",
+				"return"
+			],
+			[
+				"pdo",
+				"pdo"
+			],
+			[
+				"dbEx",
+				"dbExportContractWdtc\t(Order.php)"
+			],
+			[
+				"cvv",
+				"cvv"
+			],
+			[
+				"year",
+				"year"
+			],
+			[
+				"true",
+				"true\t(PayeezyProcessing.php)"
+			],
+			[
+				"dbGetRa",
+				"dbRawGetContract"
+			],
+			[
+				"array_key_exis",
+				"array_key_exists"
+			],
+			[
+				"array_key",
+				"array_key_exists\t(OrderController.php)"
+			],
+			[
+				"result",
+				"result"
+			],
+			[
+				"address",
+				"address"
+			],
+			[
+				"login",
+				"login\t(v1.php)"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"phone",
+				"phone"
+			],
+			[
+				"contact",
+				"contact"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 322.0,
+		"last_filter": "wrap",
+		"selected_items":
+		[
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssjavascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"new view",
+				"File: New View into File"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"new vie",
+				"File: New View into File"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"emoji",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"emo",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"box",
+				"Boxy Theme: Configuration"
+			]
+		],
+		"width": 623.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/blake/websites/hide-commentors-extension"
+	],
+	"file_history":
+	[
+		"/home/blake/websites/hide-commentors-extension/script.js",
+		"/home/blake/websites/hide-commentors-extension/popup.html",
+		"/home/blake/websites/hide-commentors-extension/popup.js",
+		"/home/blake/websites/hide-commentors-extension/manifest.json",
+		"/home/blake/websites/hide-commentors-extension/background.js",
+		"/tmp/fz3temp-2/TaxInfo.php",
+		"/home/blake/websites/fnhw-api/config/mail.php",
+		"/home/blake/websites/fnhw-api/.env.example",
+		"/home/blake/websites/fnhw-api/.env",
+		"/home/blake/websites/fnhw-api/resources/views/v1/emails/contractor/applyReply.blade.php",
+		"/tmp/fz3temp-2/hello.php",
+		"/home/blake/websites/fnhw-api/routes/web.php",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/ServiceRequest.php",
+		"/home/blake/websites/fnhw-api/app/Http/Controllers/V1/ServiceRequestController.php",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/Contract.php",
+		"/home/blake/websites/fnhw-api/app/Http/Controllers/V1/ContractorController.php",
+		"/tmp/fz3temp-2/.env 2",
+		"/tmp/fz3temp-2/content-marketing-tools.php",
+		"/tmp/fz3temp-2/Web 3.config",
+		"/tmp/fz3temp-2/Web 2.config",
+		"/home/blake/websites/fnhw-api/config/app.php",
+		"/tmp/fz3temp-2/Web.config",
+		"/home/blake/fnhw-api/app/CustomModels/V1/storedprocs2.txt",
+		"/tmp/fz3temp-2/.env",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/Batch.php",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/Newsletter.php",
+		"/home/blake/websites/fnhw-api/docs/api.raml",
+		"/home/blake/websites/fnhw-api/app/Http/Controllers/V1/InvoiceController.php",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/User.php",
+		"/home/blake/websites/fnhw-api/app/Http/Controllers/V1/AuthoBuilderController.php",
+		"/home/blake/websites/fnhw-api/app/Http/Controllers/V1/UserController.php",
+		"/home/blake/websites/fnhw-api/public/writer.php",
+		"/tmp/fz3temp-2/laravel.log",
+		"/tmp/fz3temp-2/deploy.php",
+		"/tmp/fz3temp-2/deploy-react.php",
+		"/home/blake/websites/fnhw-api/app/Http/Controllers/V1/BatchController.php",
+		"/home/blake/websites/fnhw-dashboard/src/reducers/serviceRequests.js",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/SWO.php",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/Invoice.php",
+		"/tmp/fz3temp-2/Invoice.php",
+		"/tmp/fz3temp-2/InvoiceController 2.php",
+		"/tmp/fz3temp-2/InvoiceController.php",
+		"/home/blake/websites/fnhw-api/docs/examples/contractor/getFax.json",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/Order.php",
+		"/home/blake/websites/fnhw-api/.gitignore",
+		"/home/blake/websites/fnhw-api/docs/test.sh",
+		"/home/blake/websites/fnhw-api/.gitlab-ci.yml",
+		"/home/blake/websites/fnhw-api/docs/examples/contractor/swoLogs.json",
+		"/home/blake/websites/fnhw-api/docs/examples/contractor/getSWO.json",
+		"/home/blake/websites/fnhw-api/resources/views/v1/username-reminder.blade.php",
+		"/home/blake/websites/fnhw-api/failFile.php",
+		"/home/blake/websites/fnhw-api/docs/examples/contractor/submitTrip.json",
+		"/home/blake/websites/fnhw-api/docs/examples/contractor/submitAppointment.json",
+		"/home/blake/websites/fnhw-api/docs/examples/contractor/submitEmptyBatch.json",
+		"/home/blake/websites/fnhw-api/routes/v1.php",
+		"/tmp/fz3temp-2/index.php",
+		"/tmp/fz3temp-2/functions.php",
+		"/tmp/fz3temp-2/header.php",
+		"/tmp/fz3temp-2/front-page.php",
+		"/home/blake/websites/fnhw-api/app/Utilities/Helper.php",
+		"/home/blake/websites/fnhw-api/docs/examples/user/update.json",
+		"/home/blake/websites/fnhw-api/docs/examples/order/get.json",
+		"/home/blake/websites/fnhw-api/docs/examples/user/create.json",
+		"/tmp/fz3temp-2/footer.php",
+		"/tmp/fz3temp-2/home.php",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/InvoiceLines.php",
+		"/home/blake/websites/fnhw-api/docs/compile.sh",
+		"/home/blake/fnhwbugs.txt",
+		"/home/blake/RE_Newsletter_File_t.txt",
+		"/home/blake/websites/fnhw-api/config/database.php",
+		"/home/blake/websites/fnhw-api/app/Http/Controllers/V1/ContractorPaymentsController.php",
+		"/tmp/fz3temp-2/Update.php",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/GPData.php",
+		"/home/blake/2017-12-29/fix.md",
+		"/home/blake/2017-12-29/readme.md",
+		"/home/blake/Downloads/exploit/m.js",
+		"/home/blake/Downloads/exploit/m-decoded.js",
+		"/home/blake/Downloads/exploit/members.html",
+		"/home/blake/Downloads/jquery-3.2.1.min.js",
+		"/home/blake/Downloads/exploit/include.js",
+		"/home/blake/sed playground/site2/site_subfolder/index.php",
+		"/tmp/fz3temp-2/index 2.php",
+		"/tmp/fz3temp-2/index.html",
+		"/tmp/fz3temp-2/index 2.html",
+		"/home/blake/websites/fnhw-dotnet/login.js",
+		"/tmp/fz3temp-2/AppSettings.config",
+		"/tmp/fz3temp-2/web 2.config",
+		"/tmp/fz3temp-2/web.config",
+		"/home/blake/websites/fnhw-api/app/Http/Controllers/V1/OrderController.php",
+		"/home/blake/websites/fnhw-api/public/getSamples.php",
+		"/tmp/fz3temp-2/ConnectionString.config",
+		"/home/blake/websites/fnhw-dotnet/more/fnhw-dotnet/ReportWeb/_AppConfig/Eric/ConnectionString.config",
+		"/tmp/fz3temp-2/taxonomy.php",
+		"/home/blake/websites/fnhw-api/app/Utilities/Errors.php",
+		"/tmp/fz3temp-2/home-warranty-iot-connected-home-768x532.jpg",
+		"/home/blake/.bashrc",
+		"/home/blake/websites/fnhw-api/app/Http/Middleware/CheckToken.php",
+		"/home/blake/websites/fnhw-api/app/Http/Middleware/CheckRole.php",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/Reports.php",
+		"/home/blake/websites/fnhw-api/app/Http/Controllers/V1/ReportController.php",
+		"/tmp/fz3temp-2/routes.php",
+		"/tmp/fz3temp-2/home-new.php",
+		"/tmp/fz3temp-2/homenew.php",
+		"/tmp/fz3temp-2/login.php",
+		"/tmp/fz3temp-2/web.php",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/Vendor.php",
+		"/tmp/fz3temp-2/Order.php",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/Customer.php",
+		"/home/blake/websites/fnhw-api/app/Utilities/SQLDebug.php",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/QAS.php",
+		"/home/blake/websites/fnhw-api/fnhw-api.sublime-project",
+		"/tmp/fz3temp-2/ServiceRequest.php",
+		"/tmp/fz3temp-2/User.php",
+		"/tmp/fz3temp-2/UserController.php",
+		"/home/blake/websites/fnhw-api/app/CustomModels/V1/Payment.php",
+		"/home/blake/global-executables/search.sh",
+		"/home/blake/global-executables/search",
+		"/home/blake/global-executables/ngrok",
+		"/home/blake/global-executables/terminal-parrot",
+		"/home/blake/websites/fnhw-api/app/Http/Controllers/V1/ContractController.php",
+		"/home/blake/websites/fnhw-api/storage/logs/laravel.log",
+		"/tmp/fz3temp-3/.env",
+		"/tmp/fz3temp-2/ftp-test 2.html",
+		"/home/blake/websites/fnhw-api/app/Utilities/PayeezyProcessing.php",
+		"/home/blake/Desktop/sql queries.txt",
+		"/tmp/fz3temp-3/wp-config.php",
+		"/tmp/fz3temp-2/ftp-test.html",
+		"/home/blake/.chrome-remote-desktop-session"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"style=\"color:red; float:right;\"",
+			" style=\"display:inline;\"",
+			"<input type=\"button\" value=\"Unblock\" id=\"{username}\" style=\"float:right; display:inline\">",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "hide comments extension.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"taxinfo",
+				"app/CustomModels/V1/TaxInfo.php"
+			],
+			[
+				"api.raml",
+				"docs/api.raml"
+			],
+			[
+				"writer.php",
+				"public/writer.php"
+			],
+			[
+				"writer.",
+				"public/writer.php"
+			],
+			[
+				"order.php",
+				"app/CustomModels/V1/Order.php"
+			],
+			[
+				"user.php",
+				"app/CustomModels/V1/User.php"
+			],
+			[
+				"report",
+				"app/CustomModels/V1/Reports.php"
+			],
+			[
+				"swo.php",
+				"app/CustomModels/V1/SWO.php"
+			],
+			[
+				"larave.log",
+				"storage/logs/laravel.log"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"contract.php",
+				"app/CustomModels/V1/Contract.php"
+			],
+			[
+				"",
+				"routes/v1.php"
+			],
+			[
+				"v1.php",
+				"routes/v1.php"
+			],
+			[
+				"reports.php",
+				"app/CustomModels/V1/Reports.php"
+			],
+			[
+				"contract",
+				"app/CustomModels/V1/Contract.php"
+			],
+			[
+				"payment.php",
+				"app/CustomModels/V1/Payment.php"
+			],
+			[
+				"payeezytest",
+				"tests/Unit/PayeezyTest.php"
+			],
+			[
+				"payeezy",
+				"app/Utilities/PayeezyProcessing.php"
+			],
+			[
+				"ordercontrol",
+				"app/Http/Controllers/V1/OrderController.php"
+			],
+			[
+				"payeezyproc",
+				"app/Utilities/PayeezyProcessing.php"
+			],
+			[
+				".env.exam",
+				".env.example"
+			],
+			[
+				"composer.lock",
+				"composer.lock"
+			],
+			[
+				".gitlab-c",
+				".gitlab-ci.yml"
+			],
+			[
+				"order",
+				"app/CustomModels/V1/Order.php"
+			],
+			[
+				"usercontr",
+				"app/Http/Controllers/V1/UserController.php"
+			],
+			[
+				"servicerequestcontr",
+				"app/Http/Controllers/V1/ServiceRequestController.php"
+			],
+			[
+				"servicerequest",
+				"app/CustomModels/V1/ServiceRequest.php"
+			],
+			[
+				"v1/user.p",
+				"app/CustomModels/V1/User.php"
+			],
+			[
+				"vendor",
+				"app/CustomModels/V1/Vendor.php"
+			],
+			[
+				"servicerequest.php",
+				"app/CustomModels/V1/ServiceRequest.php"
+			],
+			[
+				"qascont",
+				"app/Http/Controllers/V1/QASController.php"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"public/writer",
+				"public/writer.php"
+			],
+			[
+				"ordercont",
+				"app/Http/Controllers/V1/OrderController.php"
+			],
+			[
+				"errors.php",
+				"app/Utilities/Errors.php"
+			],
+			[
+				"servicerequestcont",
+				"app/Http/Controllers/V1/ServiceRequestController.php"
+			],
+			[
+				"package.l",
+				"package-lock.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
